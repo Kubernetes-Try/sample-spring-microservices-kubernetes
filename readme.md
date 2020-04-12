@@ -1,3 +1,6 @@
+## Article
+https://piotrminkowski.com/2019/12/20/microservices-with-spring-cloud-kubernetes/
+
 # Microservices with Spring Boot and Spring Cloud on Kubernetes Demo Project [![Twitter](https://img.shields.io/twitter/follow/piotr_minkowski.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/piotr_minkowski)
 
 In this project I'm demonstrating you the most interesting features of [Spring Cloud Project](https://spring.io/projects/spring-cloud) for building microservice-based architecture that is deployed on Kubernetes. All the samples may be easily deployed on local Kubernetes single-node cluster - Minikube.
